@@ -1,0 +1,15 @@
+Title: A.L.I.A.S 2
+
+Width: 550
+
+Height: 350
+
+Tags: Robot, War, Army
+
+Description:
+A.L.I.A.S 2 Is an action packed multi level game in which you must help A.L.I.A.S battle his way though the army base, blowing up all enemies and obstacles that stand in your path with your highly powered gun. Playing the game at greater difficulties will multiply your score considerably, so don't be afraid to try the game on a harder setting as the rewards are substantial. So what are you waiting for? Get killing those inferior beings.
+
+Instructions:
+· Movements = Use W,A,S & D Keys
+· Aim & Fire = Use Mouse
+

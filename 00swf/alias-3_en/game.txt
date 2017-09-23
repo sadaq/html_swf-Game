@@ -1,0 +1,15 @@
+Title: A.L.I.A.S 3
+
+Width: 550
+
+Height: 350
+
+Tags: War, Shooting, Robot, Army
+
+Description:
+An action packed Shooting Game. A.L.I.A.S the little robot is out to get revenge from the humans for what they did to him. A nearby military base is his target. Help him battle his way through the army base and blast all the soldiers and obstacles. Each kill restores a bit of health (power-ups help for that, too).
+
+Instructions:
+· Movements = W,A,S & D Keys
+· Aim and Shoot = Use Mouse
+

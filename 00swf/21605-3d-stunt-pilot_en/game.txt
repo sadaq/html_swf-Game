@@ -1,0 +1,14 @@
+Title: 3D Stunt Pilot
+
+Width: 670
+
+Height: 600
+
+Tags: Airplane, Plane, Aeroplane, Scoreboard, Flying
+
+Description:
+Ever wished to fly a plane? Even better, ever wished to race one? We can't give you a plane, but 3D Stunt Pilot is certainly a great place to start! Race your plane through the courses in the fastest time possible. Use your mouse to move the plane and be sure to pass over the turbo boosters to break records!
+
+Instructions:
+Use the mouse to control your aircraft
+

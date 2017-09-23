@@ -1,0 +1,16 @@
+Title: 3D Quad Bike Racing
+
+Width: 640
+
+Height: 450
+
+Tags: Scoreboard, Racing, Driving, Bike
+
+Description:
+Race your opponents all the way to the finish line on your trusty quad bike in this exciting racing game! Five maps to complete, each one bumpier than the other! Can you place first on all of them and prove yourself worthy of the trophy? Be careful, though, the race is not going to be as simple as it looks!
+
+Instructions:
+Accelerate - Up arrow key
+Turn - Left/right arrow keys
+Brake - Spacebar
+

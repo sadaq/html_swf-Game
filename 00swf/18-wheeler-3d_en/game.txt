@@ -1,0 +1,17 @@
+Title: 18 Wheeler 3D
+
+Width: 640
+
+Height: 530
+
+Tags: Scoreboard, Parking, Driving
+
+Description:
+18 Wheeler 3D is one of the most challenging truck sim games around! Drive your way through ten levels, testing your driving skills to the limit. Weave through tight streets, crowded corners and sharp turns as you make your way to the parking bay - no easy feat when you have a heavy trailer following in your wake!  Key is to take your time, and be sure to take advantage of your camera to get through the tight spots.
+
+Instructions:
+Accelerate - Up arrow key
+Decelerate/reverse - Down arrow key
+Turn left/right - Left/right arrow keys
+Change camera - 1,2 and 3 number keys
+

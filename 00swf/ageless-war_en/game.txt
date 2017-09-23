@@ -1,0 +1,14 @@
+Title: Ageless War
+
+Width: 650
+
+Height: 550
+
+Tags: Strategy, Scoreboard, Action, Shooting, Defense
+
+Description:
+Wage war against armies across all of time! Choose an army from your favourite era, be it the middle ages, today or the future! Build your city placing buildings to produce soldiers, upgrade their weaponry and equipment and obliterate the enemy in this exhilarating side-scrolling strategy came! Did we mention you also get to use ninjas?
+
+Instructions:
+Use the mouse in game to position buildings etc.
+

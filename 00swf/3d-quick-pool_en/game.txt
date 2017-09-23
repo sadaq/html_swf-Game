@@ -1,0 +1,16 @@
+Title: 3D Quick Pool
+
+Width: 670
+
+Height: 504
+
+Tags: Pool, Sports
+
+Description:
+In 3D Quick Pool, your goal is to test your pool-shooting skill and accuracy on this super cool small pool table and pot all your balls into the hole in this challenging and awesome mini 3D pool game! Do you have what it takes? Will your aim be true or will you miss the holes!? Good luck, and have fun!
+
+Instructions:
+Determine angle - Move mouse left and right
+Determine power - Move mouse up and down
+Shoot - Double click the cue
+

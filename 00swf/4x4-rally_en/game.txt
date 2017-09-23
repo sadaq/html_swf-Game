@@ -1,0 +1,14 @@
+Title: 4x4 Rally
+
+Width: 570
+
+Height: 400
+
+Tags: Car, Drifting, Truck, Driving, Racing
+
+Description:
+Race on treacherous terrain in 4x4 Rally. Customize your own truck and compete for a winning place on challenging courses, such as the race on ice, through dense cityscapes, threatening deserts, and even the inside of a giant's body! Beautiful top-down, 3D graphics and competitive game play make this a worthwhile challenge!
+
+Instructions:
+·Navigate Vehicle= Use arrow keys
+

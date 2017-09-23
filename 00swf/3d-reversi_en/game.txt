@@ -1,0 +1,14 @@
+Title: 3D Reversi
+
+Width: 600
+
+Height: 423
+
+Tags: Puzzle
+
+Description:
+In This Classic 3D Puzzle Game the aim is to own more pieces than your opponent when the game is over. You must place the piece so that an opponent's piece, or a row of opponent's pieces, is flanked by your pieces. All of the opponent's pieces between your pieces are then turned over to your color. The game is over when neither player has a move.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

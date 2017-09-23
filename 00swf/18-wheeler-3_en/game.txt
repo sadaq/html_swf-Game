@@ -1,0 +1,17 @@
+Title: 18 Wheeler 3
+
+Width: 600
+
+Height: 500
+
+Tags: Adventure, Truck, Driving
+
+Description:
+Your life is turned upside down as you return to Texas, only to get involved with a local gang. Now you must work your way out by working for them. Drive your truck , do various missions, stay away from the cops and try not to destroy the truck, your life depends on it! There are three speeds at which you can operate the truck for different purposes.
+
+Instructions:
+&amp;middot; Movement - &lt;b&gt;Arrow keys&lt;/b&gt;
+&amp;middot; Speed control - &lt;b&gt;1/2/3&lt;/b&gt;
+&amp;middot; Quality toggle - &lt;b&gt;Q&lt;/b&gt;
+&amp;middot; Sound toggle - &lt;b&gt;S&lt;/b&gt;
+

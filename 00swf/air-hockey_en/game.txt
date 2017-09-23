@@ -1,0 +1,18 @@
+Title: Air Hockey
+
+Width: 550
+
+Height: 400
+
+Tags: Hockey, Sports
+
+Description:
+Air hockey is one of everyone's favorite challenges! Represent your favorite country as you go head-to-head as you work your way through a tournament of eight games. Every country's player brings their own tactics and challenges, so stay alert. Some of the most realistic physics for air hockey are right here.
+
+Instructions:
+Select your country and play against the other top teams of the world, beat them all and become the World Champion.
+
+The first player to accumulate seven points wins the game. You win a point by hitting the puck in the opponents goal. The player who scores a point will have the possession of the puck for the next serve. The puck can be struck with any part of the mallet.
+
+Use your Mouse to move your mallet and hit the puck.
+

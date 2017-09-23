@@ -1,0 +1,14 @@
+Title: Alien
+
+Width: 300
+
+Height: 400
+
+Tags: Platform, Alien, Jumping
+
+Description:
+Alien is a great but simple flash game. The game is about an alien who has crash landed on our home planet and your job is to help him escape and get back home. Jump as high as you can to set the best score you can get, and try not to fall! The game has a cool 2D look, nice gameplay and simple graphics. Go and check it out, you know you want to! 
+
+Instructions:
+&middot; Jump = Use Space Bar
+

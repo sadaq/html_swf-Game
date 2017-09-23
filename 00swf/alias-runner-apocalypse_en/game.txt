@@ -1,0 +1,14 @@
+Title: Alias Runner Apocalypse
+
+Width: 640
+
+Height: 450
+
+Tags: Driving, Scoreboard, Car, Simulation, Racing
+
+Description:
+Drive for as long as you can, avoiding the pursuers hot on your tail! Keep your fuel topped up and drive skillfully in order to survive in this fantastic 3D driving game! Avoid crashing into buildings and other cars so as not to damage your only means of transportation, and make sure to pick up fuel and wrenches to fix your car on the way!
+
+Instructions:
+Use the arrow keys to control your car.
+

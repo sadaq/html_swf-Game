@@ -1,0 +1,15 @@
+Title: Air Traffic Chief
+
+Width: 670
+
+Height: 600
+
+Tags: Airplane, Flying, Strategy, Scoreboard, Drawing, Managing
+
+Description:
+Organize the busy skies and guide the planes and helicopters to a safe landing in Air Traffic Chief. Keep your cool and don't let the numbers overwhelm you and most of all, do not crash. If you like to land a plane just draw a route for him and wait till it lands using your mouse. Do this for all the planes and helicopters. You have three runways so it`s pretty hard to land many airplanes. Be focused and try to see every planes trajectory to avoid crashing.
+
+Instructions:
+Use your mouse to drag flight paths for the aircraft to land on the runway and drag helicopters to the helipad.
+
+

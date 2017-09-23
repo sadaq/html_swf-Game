@@ -1,0 +1,14 @@
+Title: All or None
+
+Width: 560
+
+Height: 415
+
+Tags: Puzzle
+
+Description:
+Be prepared for the challenge of your life! In this card game, your objective is to select three cards. These three should all match or be all different. Sounds simple at first; if you pick a blue oval, then pick two red rectangles, and then pick 3 green diamonds, you may get it right...or get it wrong! Can you handle a game telling you if you're WRONG?!
+
+Instructions:
+&middot;controls= Use Mouse (point & click)
+

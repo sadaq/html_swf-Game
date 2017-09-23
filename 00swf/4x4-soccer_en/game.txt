@@ -1,0 +1,16 @@
+Title: 4x4 Soccer
+
+Width: 670
+
+Height: 500
+
+Tags: Scoreboard, Driving, Sports, 3D
+
+Description:
+In 4x4 Soccer, you have to ask yourself: What's more exciting than soccer?  4x4 soccer!  Pit your skills against the world's greatest in this clever twist on the classic sports game, and drive your way to victory! Select your national team, and follow the championship chart all the way to the very top!
+
+Instructions:
+Up arrow key - Accelerate
+Down arrow key - Decelerate/reverse
+Left/right arrow keys - turn left/right
+

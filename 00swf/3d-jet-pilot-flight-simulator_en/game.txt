@@ -1,0 +1,15 @@
+Title: 3D Jet Pilot Flight Simulator
+
+Width: 640
+
+Height: 400
+
+Tags: Flight Simulator, 3D, Unity
+
+Description:
+Flight Simulation games will seem boring after you play 3D Jet Pilot Flight Simulator. Fly through cities at massive speeds as you enter the cockpit of a Fighter Jet plane, avoid obstacles, fly through the hoops and fly at super sonic speeds.
+Other flight simulation games will seem too slow after being in control of a fighter jet!
+
+Instructions:
+Use the arrow keys on your keyboard to manoeuver your jet, and hold down the spacebar for a boost of speed!
+

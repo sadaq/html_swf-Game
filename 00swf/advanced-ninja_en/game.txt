@@ -1,0 +1,16 @@
+Title: Advanced Ninja
+
+Width: 500
+
+Height: 400
+
+Tags: Ninja, Climbing, Adventure, Quest, Physics
+
+Description:
+Can you reach the exit without dying in Advanced Ninja? You must master the use of the grappling hook to scale walls and do crazy cliffhanger moves to reach your destination. Avoid falling off a high platfroms or you will die. There are various traps and switches so try to figure out the levels. Can you really become the ultimate ninja?
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Use Arrow keys
+&amp;middot; &lt;b&gt;Shoot Grappling Hook&lt;/b&gt; = Use Mouse
+&amp;middot; &lt;b&gt;Respawn&lt;/b&gt; = Space Bar
+

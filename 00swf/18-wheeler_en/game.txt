@@ -1,0 +1,15 @@
+Title: 18 Wheeler
+
+Width: 550
+
+Height: 550
+
+Tags: Parking, Driving, Truck, Simulation
+
+Description:
+In 18 Wheeler, the objective of the game is to park the truck into designated parking areas before the time runs out. Try to finish the levels as quickly as possible to get more points. You will lose points when you crash the truck so be very careful.  Show your handling skills in a big rig and get a high score
+
+Instructions:
+&amp;middot; &lt;b&gt;Drive&lt;/b&gt; - Arrow Keys
+&amp;middot; &lt;b&gt;Brakes&lt;/b&gt; - SpaceBar
+
