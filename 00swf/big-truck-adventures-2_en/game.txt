@@ -1,0 +1,15 @@
+Title: Big Truck Adventures 2
+
+Width: 480
+
+Height: 384
+
+Tags: Stunt, Physics, Monster Truck, Delivery, Car, X, Truck
+
+Description:
+Do you have the skills to deliver the goods in Big Truck Adventures 2? In this game you are a hill billy red neck working as a delivery man. Your job is to deliver the goods within the specified time limit. You also have to responsibility to ensure that the goods are delivered in one piece. You will receive various types of cargo and it's your job to deliver them safely and quickly, if you loose all your goods it's time to start again so be quick and careful to ensure success, so get driving.
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate&lt;/b&gt;= Arrow keys
+ &amp;middot;&lt;b&gt;Nitro&lt;/b&gt;= Shift key
+

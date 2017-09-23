@@ -1,0 +1,16 @@
+Title: Evil Nights
+
+Width: 700
+
+Height: 600
+
+Tags: Defense, Upgrade, Medieval
+
+Description:
+Evil Nights is a game in which you control a wizard who tries to defend a small village from the creatures of the night. The monsters will try to plunder and steal the villagers you defend when the night falls so be careful and defend them until morning. If you pass the night you will see that the population of the village is increases and from the death of the monsters you kill you get money. With the money you earn you can buy spells, upgrades, life potions and will potions. In the daylight you can repair the villagers houses to prevent the monsters from kidnapping them and hire archers to aid your defense!
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate Character&lt;/b&gt;= Use arrow keys
+&amp;middot;&lt;b&gt;Shoot up, down, left, right&lt;/b&gt;= W,A,S,D keys
+&amp;middot;&lt;b&gt;Select Space Ship&lt;/b&gt;= Enter
+

@@ -1,0 +1,17 @@
+Title: Creepy Columns
+
+Width: 640
+
+Height: 480
+
+Tags: Halloween, Puzzle, Matching
+
+Description:
+Creepy Columns a Match Making Puzzle Game. This Game is perfect for the Haloween Season. In this scary game you have to match the falling pumkins, dried heads and scary relic tiles in groups of 3 or more. Shapes can be matched in all directions. Game ends when tiles hit the roof and no more combos can be made.
+
+Instructions:
+Curser Keys = left, right and rotate
+Space = drop quickly
+P = pause
+M = Mute
+

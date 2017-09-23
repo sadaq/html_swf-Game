@@ -1,0 +1,14 @@
+Title: Burger Cat
+
+Width: 640
+
+Height: 480
+
+Tags: Skill, Puzzle, Logic
+
+Description:
+Help the cat reach the tasty burgers in this old-style, meme-inspired puzzler! Point and click with your mouse to change the structure of the levels, add or remove blocks of terrain, create trampolines, avoid traps and much more! But be quick, the cat won't stop walking towards his goal! Can you keep up as the levels become more and more difficult?
+
+Instructions:
+Use the mouse to place your tools in order to guide the cat to the burger
+

@@ -1,0 +1,16 @@
+Title: Caveman Run
+
+Width: 570
+
+Height: 430
+
+Tags: Dinosaur, Animal, Shooting, Running, Adventure
+
+Description:
+You play as Rehman, a caveman who lived 65 million years ago in the Cretaceous period. Use your stonezooka to survive in this lethal world in a fun side-scrolling adventure. You have unlimited amounts of stones so keep firing at the dinosaurs! Be alert and try to collect power-ups as you go, make sure you jump over the boulders!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = A or D Keys
+&amp;middot; &lt;b&gt;Shoot&lt;/b&gt; = Use Mouse
+&amp;middot; &lt;b&gt;Jump&lt;/b&gt; = Space Bar
+

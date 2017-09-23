@@ -1,0 +1,14 @@
+Title: Dirt Bike
+
+Width: 500
+
+Height: 400
+
+Tags: Racing, Sports, Urban Sports, Dirt Bike, Motorbike, Physics, Stunt
+
+Description:
+Dirt Bike is more of an obstacle course rider game that you must complete as fast as you can! Imagine being in an arena trying to control your bike across different obstacles, it's tricky... so you have to control the bike and try your best not to fall off. Each “level” contains a front scene stunt and a back scene stunt. Careful control will allow you to complete each one, no matter how intense they get!
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+

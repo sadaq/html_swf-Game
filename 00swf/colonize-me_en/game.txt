@@ -1,0 +1,14 @@
+Title: Colonize Me
+
+Width: 700
+
+Height: 550
+
+Tags: Logic, Strategy, Skill, Puzzle
+
+Description:
+Put your wits to the test in this epic and difficult board game! Colonize the board with your pieces as quickly and cunningly as you can, lest your enemy make them all disappear right in front of your eyes! Pit your logic skills against a mystical wizard, a bold knight, an agile elf or a dastardly skeleton! Can you conquer the board?
+
+Instructions:
+Use the mouse to move your pieces.
+

@@ -1,0 +1,17 @@
+Title: City Gunner
+
+Width: 650
+
+Height: 420
+
+Tags: Army, Shooting, Killing
+
+Description:
+Go on a City Gunner shooting rampage to save little boys from captivity! In this action packed game, you can play as a girl or boy, who's mission is to kill the bad guys and save his friends from captivity. Go shoot your enemies and avoid enemy fire. Make your way to the end of each level and take down huge bosses to move onto the next.
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate Character&lt;/b&gt;= WSAD keys
+&amp;middot;&lt;b&gt;Aim/Shoot Gun&lt;/b&gt;= Mouse click
+
+
+

@@ -1,0 +1,14 @@
+Title: Bubble Shift
+
+Width: 550
+
+Height: 420
+
+Tags: Puzzle
+
+Description:
+In Bubble Shift, the objective of the game is to collect as many coins possible and exit the level in the quickest time as humanly possible. Try to get good scores by collecting all the coins before finishing. Steer your bubble to the blue hole without touching any walls! Think you can do it? Go see.
+
+Instructions:
+&amp;middot; &lt;b&gt;Controls&lt;/b&gt; = Arrow Keys
+

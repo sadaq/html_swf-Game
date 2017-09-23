@@ -1,0 +1,18 @@
+Title: Domino Draw
+
+Width: 670
+
+Height: 550
+
+Tags: Drawing, Toy, Fun
+
+Description:
+I've bet you've always wondered how much time and effort it takes to build those awesome domino patterns. And of course how many domino pieces would it take. For all those enthusiasts out there, Domino Draw is here. Create intricate domino patterns, play around and knock them over when you're done to see the masterpiece you've created.
+
+Instructions:
+&amp;middot; &lt;b&gt;Draw trail of dominoes&lt;/b&gt; - Use the mouse.
+&amp;middot; &lt;b&gt;Topple dominoes&lt;/b&gt; - Press the &quot;Start&quot; button.
+&amp;middot; &lt;b&gt;Create new trail&lt;/b&gt; - Press the &quot;New&quot; button.
+&amp;middot; &lt;b&gt;Undo last line&lt;/b&gt; - Press the &quot;Undo&quot; button.
+&amp;middot; &lt;b&gt;Untopple dominoes&lt;/b&gt; - Press the &quot;Reset&quot; button.
+

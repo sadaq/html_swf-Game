@@ -1,0 +1,14 @@
+Title: Connect 2
+
+Width: 560
+
+Height: 420
+
+Tags: Puzzle, Matching
+
+Description:
+Connect 2 is a time based tile matching Puzzle Game. Match pairs of tiles to make them disappear. You must create a path between the two matching tiles but make sure that the path is not blocked by any other tiles. Paths cannot bend three or more times. If you run out of moves, the game is over. You must clear all the blocks within the designated time frame to proceed. Any wrong moves and you lose n extra 10 seconds off your time.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

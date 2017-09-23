@@ -1,0 +1,15 @@
+Title: Escape
+
+Width: 670
+
+Height: 480
+
+Tags: Puzzle, Police, Maze, Prison
+
+Description:
+In this Strategy Game help Michael escape from prison and reach the roof top where a helicopter is waiting for him. Plan carefully his escape, you only have 3 chances before it's game over. The idea is to lead the guard into a dead end so Michael can reach the exit. For every 1 move Michael makes, the guard makes 2. Use the UNDO button when needed.
+
+Instructions:
+&middot;Navigate Character= Arrow keys
+&middot;Interact= Mouse (point & click)
+

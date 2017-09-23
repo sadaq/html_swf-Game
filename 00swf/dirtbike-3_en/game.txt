@@ -1,0 +1,17 @@
+Title: Dirt Bike 3
+
+Width: 500
+
+Height: 400
+
+Tags: Physics, Motorbike, Urban Sports, Sports, Dirt Bike
+
+Description:
+Dirt Bike 3 is a Dirt Bike Riding and Stunt Performing Game. The aim of the game is to ride over all of the obstacles to reach the end of each stage as quickly as possible.  Keep your balance and use your speed to make it over things like barrels, boxes, cars and tractors. Don't lean too far or you'll flip over and crash.
+
+Instructions:
+&amp;middot; &lt;b&gt;Acceletare&lt;/b&gt; = Up Arrow key
+&amp;middot; &lt;b&gt;Brake&lt;/b&gt; = Down Arrow key
+&amp;middot; &lt;b&gt;Tilt Back / Forward&lt;/b&gt; = Left or Right Arrow keys
+
+

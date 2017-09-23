@@ -1,0 +1,15 @@
+Title: Bowls
+
+Width: 670
+
+Height: 550
+
+Tags: Sports, Bowling
+
+Description:
+Test your skills and accuracy with this awesome online strategy game of Bowls. This competitive bowls game is an awesome way to test your skills on the bowling green. Have fun and make yourself even better at bowls than before. Compete with your Facebook friends on the leader boards and try to become the champion!
+
+Instructions:
+· Aim - Left/right arrow keys.
+· Determine power - Hold down the spacebar, release to bowl.
+

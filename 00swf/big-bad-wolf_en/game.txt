@@ -1,0 +1,15 @@
+Title: Big Bad Wolf
+
+Width: 960
+
+Height: 670
+
+Tags: Shooter, Defense
+
+Description:
+Big Bad Wolf is a defence game!  The goal of the game is to protect the sheep from a relentless army of fierce wolves by building up guns and turrets to defend them.  Most of them work automatically, but you can control the most powerful at all, deciding whether or not you want to charge your shots for a more powerful attack, or make smaller, faster shots!  Don't forget to upgrade your towers for more firepower!
+
+Instructions:
+Place towers - Use the mouse
+Aim and shoot - Use the mouse.
+

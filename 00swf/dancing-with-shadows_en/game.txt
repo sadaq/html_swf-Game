@@ -1,0 +1,14 @@
+Title: Dancing With Shadows
+
+Width: 720
+
+Height: 480
+
+Tags: Platform, Puzzle, Physics
+
+Description:
+Dance with the Shadows in this beautifully stylized platforming puzzler! Open the book to immerse yourself in the world of ancient thieves! Overcome obstacles and dangers, unlock doors through complex codes and make your way through each chapter in order to steal the valuable goods and prove your thieving skills!
+
+Instructions:
+Use the arrow keys to run and jump in order to avoid the dangers and unlock the keys.
+

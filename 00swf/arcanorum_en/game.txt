@@ -1,0 +1,16 @@
+Title: Arcanorum
+
+Width: 700
+
+Height: 575
+
+Tags: Physics, Scoreboard
+
+Description:
+For over two thousand years people lived peacefully, unaware of the evil rising in their lands. The time has come to put an end to all evil. Control your mechanical machine with your cursor around the map and tackle your enemies swiftly. Use your medieval flying contraption and upgrade your weapons as you make your way throughout your quest for victory.
+
+Instructions:
+· Navigate the menu - Use the mouse.
+· Move around - Use the mouse to guide the contraption.
+· Attack - Move the mouse in a circular motion to swing your weapon against an enemy.
+

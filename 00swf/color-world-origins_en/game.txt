@@ -1,0 +1,14 @@
+Title: Color World Origins
+
+Width: 700
+
+Height: 466
+
+Tags: Puzzle, Scoreboard, Logic, Skill, Physics
+
+Description:
+Once again you can kill some time with the addictive Color World! It might seem simple at first, but you'll find yourself soon wondering how to get to the next level! Make the colour of the boxes match that of the character inside them using the fluffy balls in your cannon: the less you have to shoot, the higher the score! Teleporters, trolley carts and gravity wells will have you scratch your head as you try to figure out a way to beat the game!
+
+Instructions:
+Use the mouse to aim and shoot the balls, use the number keys to switch color when needed.
+

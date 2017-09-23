@@ -1,0 +1,14 @@
+Title: Dr Lee
+
+Width: 640
+
+Height: 530
+
+Tags: Physics, Coin, Skill, Scoreboard, Adventure
+
+Description:
+Dr Lee is a Flying Game where Dr Lee is sitting on a rocket and you must launch him into the sky. From there the aim is to make the rocket travel as far as possible. You can collect fuel cans to increase your fuel or collect the coins floating around in the sky so you can upgrade various aspects of the rocket at the begining of your next flight. The more upgrades you get the easier flying will become, you can purchase these upgrades with FOG coins if you choose, or use the money that you earn during the game.
+
+Instructions:
+Use A and D to change direct, E to use rocket fuel.
+

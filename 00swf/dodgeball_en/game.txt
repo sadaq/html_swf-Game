@@ -1,0 +1,14 @@
+Title: Dodgeball
+
+Width: 650
+
+Height: 400
+
+Tags: Dodgeball, Urban Sports, Defense
+
+Description:
+You're on the Average Joe's Gym Dodgeball Team at the Vegas International Dodgeball Tournament. The object of the game is to battle through 5 rounds of single elimination dodgeball action to claim the championship. Use your space-bar to power the shot and throw the ball, and guide your player with the arrow keys. if an opponent gets hit he is eliminated, if your player is hit he is out and one opponent comes back in. The team with the last member standing wins each round.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

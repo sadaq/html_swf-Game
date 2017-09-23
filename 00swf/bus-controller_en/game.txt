@@ -1,0 +1,14 @@
+Title: Bus Controller
+
+Width: 670
+
+Height: 600
+
+Tags: Strategy, Simulation, Driving, Management
+
+Description:
+Bus Controller is a chaotic management game in which you're in control of a bustling city's bus interchange! Guide the fleet of buses to their respective stations without causing a crash! The more buses there are on the road, the crazier things get, so be sure park the buses as soon as you can, otherwise you'll lose control, and it'll all end in disaster!
+
+Instructions:
+Guide buses - Left-click on a bus to begin drawing a line, and while holding it down, drag the mouse to where you would like the bus to go.
+

@@ -1,0 +1,14 @@
+Title: Color Traffic 2
+
+Width: 600
+
+Height: 600
+
+Tags: Management, Car, Driving, Simulation, Racing
+
+Description:
+Back for more Color Traffic? Direct the differently colored cars in the right direction as fast as you can to achieve the highest score possible! Prevent disastrous collisions and traffic jams on the roads as you carry out your job. But be careful! The levels will greatly increase in difficulty as you go along!
+
+Instructions:
+Use the mouse in-game to control the traffic flow
+

@@ -1,0 +1,15 @@
+Title: Darts Sim
+
+Width: 670
+
+Height: 550
+
+Tags: Sports, Darts
+
+Description:
+Who doesn't like an old fashion game of Darts? Think you can take on people from all around the world and show them how it's done? How good is your accuracy? Why not try this online version of the classic pub game of Darts. Keep a steady hand and a good aim and you can beat the best players from your local area, country or even the world!
+
+Instructions:
+&amp;middot; &lt;b&gt;Aim and throw dart&lt;/b&gt; - Use the mouse to aim, left click to throw
+&amp;middot; &lt;b&gt;Navigate menus&lt;/b&gt; - Use the mouse
+

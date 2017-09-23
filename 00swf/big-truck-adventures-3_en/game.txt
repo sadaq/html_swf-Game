@@ -1,0 +1,14 @@
+Title: Big Truck Adventures 3
+
+Width: 480
+
+Height: 384
+
+Tags: Racing, Stunt, X, Car, Monster Truck, Physics, Truck
+
+Description:
+Big Truck Adventures 3 is a Physics based Truck Driving Game. In this game, you have to drive an off-road jeep. You goal is to get to the checkpoint as fast as possible while going through challenging terrains, collecting gold crosses and performing big aerial stunts. Press the SHIFT button to use your nitro gas and go super fast and make even bigger jumps.
+
+Instructions:
+&middot;Navigate Vehicle= Use arrow keys
+

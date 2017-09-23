@@ -1,0 +1,17 @@
+Title: Dirt Bike 2
+
+Width: 500
+
+Height: 400
+
+Tags: Sports, Racing, Stunt, Urban Sports, Motorbike, Physics, Dirt Bike
+
+Description:
+Dirt Bike 2 will test your biking skills in one of the most dangerous rocky terrains around. Some obstacles you can jump over whilst others require you to ride the bike slowly. The bike is very agile and can easy crash or topple over. A timline at the bottom of the screen will help you keep track of your bikes progress in each level. Reach the flag at the end of each course to proceed to the next and more challenging level. The bike is very hard to handle at first, but do not give up, a few attempts later you'll be riding it like a pro.
+
+Instructions:
+· Accelerate Up arrow Key
+· Brake/Reverse Down Arrow Key
+· Lean Forward Left Arrow Key
+· Lean Backward Right Arrow Key
+

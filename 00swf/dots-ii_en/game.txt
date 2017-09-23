@@ -1,0 +1,14 @@
+Title: Dots II
+
+Width: 800
+
+Height: 600
+
+Tags: Puzzle, Multiplayer, 2 Player
+
+Description:
+In this classic puzzle game, you can play either 1 or 2 players, you need to create boxes out of the lines drawn from one dot to the other. It's a simple concept; very difficult to master. In 1 player mode, you play against the CPU. In 2 player, go head-to-head with a friend or rival, score as many boxes as you can. Line up the dots correctly, this is a really easy game right? think again!
+
+Instructions:
+Click lines to complete boxes.
+

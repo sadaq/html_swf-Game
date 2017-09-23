@@ -1,0 +1,14 @@
+Title: Baseball Big Hitter
+
+Width: 670
+
+Height: 600
+
+Tags: Sports, Baseball
+
+Description:
+Baseball Big Hitter is a game based on timing and quick reactions, you get 24 balls pitched at you and you must aim to hit the ball as far as you can to get the best score possible. Where you strike the ball is important as it will determine whether it will go high or low, left or right. If you miss the ball you lose that shot. Each swing will add up for your total score. Oh, and watch out for bonus stars.
+
+Instructions:
+Use the mouse to aim and hit the ball.
+

@@ -1,0 +1,21 @@
+Title: Counter Specialist
+
+Width: 640
+
+Height: 480
+
+Tags: Shooting, War
+
+Description:
+In Counter Specialist, war has erupted, and in-between the massive fights, there are small squabbles that need to be dealt with. Using your mouse & keyboard, you'll need to fight off terrorists, defuse bombs, rescue hostages and more! Hint: E defuses a bomb and SPACE-BAR reloads. Switch your guns with Q. Complete the objectives, or die trying!
+
+Instructions:
+Move - W,A,S,D keys
+Attack/shoot - Use the mouse
+Switch weapons - 1-4 number keys
+Defuse bomb/release hostage - E key
+Quick swap - Q key
+Reload - Spacebar
+Show map - X key
+
+

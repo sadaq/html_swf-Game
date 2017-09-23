@@ -1,0 +1,17 @@
+Title: Boris
+
+Width: 600
+
+Height: 400
+
+Tags: Street Fighting, Fighting
+
+Description:
+In Boris, the objective of the game is to get to your father who is in Italy. Take on the mob and destroy everyone that tries to block your path. Tip would be to try to get the stick and jam the Z key. Also take a look around the play area for things to pick up like boxes and even dead people. Just how hard is Boris?
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Punch / Kick &amp; Jump&lt;/b&gt; = Z,X &amp; C Keys
+&amp;middot; &lt;b&gt;Pick Up Stuff / Ride Bike&lt;/b&gt; = A Key
+&amp;middot; &lt;b&gt;Powerups&lt;/b&gt; = 1 - 3 Keys
+

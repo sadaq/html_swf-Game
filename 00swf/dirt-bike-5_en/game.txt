@@ -1,0 +1,18 @@
+Title: Dirt Bike 5
+
+Width: 670
+
+Height: 550
+
+Tags: Driving, Dirt Bike, Bike, Stunt, Fun
+
+Description:
+In the 5th installment for Dirt Bike featured enriched graphics with grander level designs. Each level will push you to the limit, forcing you to be creative with your stunts for big scores, and impressive marks. Be careful with your tricks though or you'll epic fail with a face plant into the dirt. Bigger ramps, bigger tires, more powerful bikes!
+
+Instructions:
+&amp;middot; &lt;b&gt;Accelerate&lt;/b&gt; - Up arrow key
+&amp;middot; &lt;b&gt;Reverse&lt;/b&gt; - Down arrow key
+&amp;middot; &lt;b&gt;Tilt backwards/forwards&lt;/b&gt; - Left/right arrow keys respectively
+&amp;middot; &lt;b&gt;Brake&lt;/b&gt; - Ctrl key
+&amp;middot; &lt;b&gt;Turn&lt;/b&gt; - Space
+

@@ -1,0 +1,16 @@
+Title: Alpha Bravo Charlie
+
+Width: 800
+
+Height: 500
+
+Tags: Missile, Helicopter, Flying, Army, War, Shooting
+
+Description:
+As a fighter pilot, you often find yourself forced unexpectedly into combat situations. Be it over rough and rocky terrain, oceans, deserts or even marshlands. Your mission is to rescue our stranded special-ops service men and women, but try not to worry too much, you have access to a full arsenal of rockets, bombs and a highly trained flight team, with their help you will bring our soldiers back, or die trying.
+
+Instructions:
+&amp;middot; &lt;b&gt;Control The Helicopter&lt;/b&gt; = Use Arrow Keys
+&amp;middot; &lt;b&gt;For Rockets / Bombs&lt;/b&gt; = Use &quot;Z&quot; or &quot;X&quot; Keys
+&amp;middot; &lt;b&gt;Lower The Rope&lt;/b&gt; = Use Space Bar
+

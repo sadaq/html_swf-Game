@@ -1,0 +1,17 @@
+Title: Dare Devil
+
+Width: 570
+
+Height: 440
+
+Tags: Motorbike, Sports, X, Bike, Dirt Bike, Stunt
+
+Description:
+Dare Devil is a Bike Game where you have to complete each level by making a big jump over the obstacles and land safely on the other end. During the jump you can perform various tricks to earn points. You can spend points to upgrade your bike and make it more agile. Bike stats include weight reduction, acceleration and max speed. A tip is to do 360 flips for maximum points.
+
+Instructions:
+&middot; Movements = Arrow Keys
+&middot; Bike Rotation = A Key
+&middot; Bar Rotation = S Key
+&middot; Superman = D Key
+

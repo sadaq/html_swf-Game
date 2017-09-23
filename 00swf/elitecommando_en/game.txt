@@ -1,0 +1,17 @@
+Title: Elite Commando
+
+Width: 600
+
+Height: 370
+
+Tags: Shooting, Army
+
+Description:
+Fight as an Elite Commando, who has been dropped in enemy territory to destroy their weapon farms and kill all the soldiers. Stay alive against their attack by planning your moves wisely. Also be careful from mines and hidden soldiers as you can lose the game.  If you are out of ammunition you can kill them with your knife when they jump.
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+&middot; Shoot = A Key
+&middot; Dynamite = D Key
+&middot; Jump = Space Bar
+

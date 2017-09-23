@@ -1,0 +1,14 @@
+Title: Crazy Battle
+
+Width: 640
+
+Height: 530
+
+Tags: Shooting, Action, Aiming, Scoreboard, War, Army
+
+Description:
+Crazy Battle is a War game. Aiming to defend your base through 20 levels of attacks. You must control your helicopter to kill all the enemies before your base is destroyed. You will earn money for every enemy you kill. War is expansive, so use the money wisely to upgrade the your helicopter or place cannons and bombs or repair the base.
+
+Instructions:
+Use the mouse to move your crosshair and left click to shoot.
+

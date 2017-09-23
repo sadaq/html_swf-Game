@@ -1,0 +1,17 @@
+Title: Eggstinction
+
+Width: 800
+
+Height: 600
+
+Tags: War, Animal, Aiming, Action, Shooting, Scoreboard
+
+Description:
+It's dinosaur eggs vs aliens in this prehistoric side-scrolling action game! Controlling your egg and bringing him to safety, shoot out the alien ships with an awesome variety of weapons from pistols to boomerangs. Use your powerful rage attack to take out more baddies in your fight to survive the extinction of your dinosaur race! 
+
+Instructions:
+Arrow keys to move
+Q + E to change weapons
+Space to activate rage mode when the meter is full.
+Mouse to aim and shoot.
+

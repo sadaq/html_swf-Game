@@ -1,0 +1,14 @@
+Title: Fat Fred
+
+Width: 600
+
+Height: 450
+
+Tags: 
+
+Description:
+This is a simple but nice flash game, where you have to help Fat Fred in locating and then eating all the hamburgers before time runs out and score maximum points. To clear all the 17 exciting levels, you need be careful from falling off the platforms, as they can be a threat to your life in further levels beside reducing the score. Just play and enjoy!
+
+Instructions:
+Movements - Use Arrow Keys.
+

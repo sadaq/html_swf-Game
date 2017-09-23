@@ -1,0 +1,14 @@
+Title: Bar Balance
+
+Width: 640
+
+Height: 530
+
+Tags: Scoreboard, Balance, Logic, Skill, Puzzle, Physics
+
+Description:
+Balance as many crates crates as you can on the bar in the short time given you! Dropping the crates on the edges will greatly increase your score, but be careful! The bar will start leaning one way and the other as weight accumulates on its sides, and as soon as a crate drop it's game over! Will you play it safe or go for the highest score possible?
+
+Instructions:
+Use the mouse to move your brick and left click to drop.
+

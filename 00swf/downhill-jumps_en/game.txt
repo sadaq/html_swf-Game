@@ -1,0 +1,15 @@
+Title: Downhill Jumps
+
+Width: 610
+
+Height: 480
+
+Tags: Sports, Snowboarding
+
+Description:
+Downhill Jumps is a snowboarding game, ride your board down the endless mountain trying to score as many points as you can. Perform stunts while in the air and collect as many gems as you can. The more flips you manage to achieve the more points you will earn. There is a time limit before you must reach the next gate or else you will lose, For every gate you pass, you will earn an extra 20 seconds of time. Falling over will slow you down.
+
+Instructions:
+· Movements = Use Arrow Keys
+· Jump = Space Bar
+

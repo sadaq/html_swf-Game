@@ -1,0 +1,16 @@
+Title: Battle Tanks
+
+Width: 400
+
+Height: 400
+
+Tags: 3D, Shooting, War, Tank
+
+Description:
+Battle Tanks is a simply designed 3D Tank game. You are a lone tank on the war path with only your ranking Officer to give you your orders. The battlefield is made of simple 3D Squares and Triangles. Use your radar to find enemy tanks to destroy, see who is firing at you and pickup the power-ups left behind after an enemy tank is destroyed. These power-ups replenish tank armour, increase your power and speed etc. The game is level based and as you progress, the enemy gets bigger, stronger and more cunning.
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+&middot; Map Zoom In / Out = X or Z Key
+&middot; Shoot = Space Bar
+

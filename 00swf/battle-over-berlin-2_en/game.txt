@@ -1,0 +1,16 @@
+Title: Battle Over Berlin 2
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Airplane, Shooting, Flying
+
+Description:
+WWII may be over but not for everyone. For all those airplane enthusiasts out there, we give you Battle Over Berlin 2. Fly your military aircraft and conquer the skies as you take on several rival forces in a fierce dogfight over Berlin. Loops, air tackles and strategies are the way to lose someone who's tailing you. Fire your machine gun and drop those bombs on your enemies in a fight over the mighty Berlin.
+
+Instructions:
+&middot; Move - Arrow keys
+&middot; Shoot - Z key
+&middot; Drop bomb - X key
+

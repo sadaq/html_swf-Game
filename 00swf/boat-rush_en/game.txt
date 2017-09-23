@@ -1,0 +1,14 @@
+Title: Boat Rush
+
+Width: 600
+
+Height: 520
+
+Tags: Boat, Puzzle, Driving
+
+Description:
+Boat Rush is a Boat Driving Game in which you must guide your boat safely up the river. The screen is constanly moving upwards and you must keep up the pace, otherwise it's game over. If you touch the river bank then it's game over so be as gentle as you can with the arrow keys. Get to the finish line to move on to the next level. You are being timed on each level so see if you can complete the game in the fastest time possible.
+
+Instructions:
+&amp;middot; &lt;b&gt;Steer The Boat&lt;/b&gt; = Arrow Keys
+

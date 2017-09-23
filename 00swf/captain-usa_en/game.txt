@@ -1,0 +1,17 @@
+Title: Captain USA
+
+Width: 600
+
+Height: 450
+
+Tags: Metal Slug, Army, War, Shooting
+
+Description:
+Play as Captain USA, tasked with the mission to rescur hostages behind enemy lines. Be sure to keep your trigger finger ready to fire, as you will encounter many hostile forces along the way. At your disposal you have a handgun and some grenades, make the most of these in every situation. Throw grenades at enemies you cannot reach with your gun, also remember to jump and duck when you see enemy units shooting at you.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Use Arrow Keys
+&amp;middot; &lt;b&gt;Fire&lt;/b&gt; = A Key
+&amp;middot; &lt;b&gt;Throw Grenades&lt;/b&gt; = D Key
+&amp;middot; &lt;b&gt;Jump&lt;/b&gt; = S Key
+

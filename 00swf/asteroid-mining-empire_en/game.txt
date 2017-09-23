@@ -1,0 +1,14 @@
+Title: Asteroid Mining Empire
+
+Width: 700
+
+Height: 500
+
+Tags: Action, Strategy, Shooting, Defense
+
+Description:
+Welcome to the cruel and cut-throat world of the space mining industry! Build your mining station and expand your empire throughout the cosmos in this challenging strategy game! Defend your station from enemies and annihilate the competition, while you excavate all the precious minerals you can from asteroid nodes.
+
+Instructions:
+Use the mouse for all actions.
+

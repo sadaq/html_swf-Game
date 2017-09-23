@@ -1,0 +1,14 @@
+Title: Builder Bash
+
+Width: 960
+
+Height: 640
+
+Tags: 3D, Puzzle, Mouse, Matching
+
+Description:
+Builder Bash is a building block puzzle game where you have to match as many colors as you can and as quick as you can before more blocks appear moving down the screen closing in on you. To help you in the levels there is dynamite spread around which can destroy unwanted blocks. The faster you build the matching blocks the quicker you progress through the levels achieving the best score possible.
+
+Instructions:
+Click blocks to move.
+

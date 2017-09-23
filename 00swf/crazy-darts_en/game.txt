@@ -1,0 +1,15 @@
+Title: Crazy Darts
+
+Width: 670
+
+Height: 600
+
+Tags: Darts, Scoreboard, Sports
+
+Description:
+Crazy Darts is a Indoor Sports Game. The aim of this game is to score as many points as you can within 90 seconds. You can throw the dart as many times as you like but of course only timing them accurately will get you the big points. The dartboard is just like a standard board except its spinning. You can still hit Doubles, Triples and Bullseye.
+
+Instructions:
+&middot; Aim and throw dart - Use the mouse to aim, left click to throw
+&middot; Navigate menus - Use the mouse 
+

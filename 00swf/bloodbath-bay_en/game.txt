@@ -1,0 +1,17 @@
+Title: Blood Bath Bay
+
+Width: 550
+
+Height: 400
+
+Tags: Platform, Adventure
+
+Description:
+Oh no! Zombies can now swim and breathe underwater! You are the last hope against the zombie outbreak; scientists believe that the only cure can be found under the sea - a rare kind of snail. It is up to you to find them and save mankind in this action-packed, deep-sea thriller of a game. Collect snails, kill zombies and medicinal fish to recover your health.
+
+Instructions:
+&amp;middot; Movement - &lt;b&gt;Arrow keys&lt;/b&gt;
+&amp;middot; Double jump - &lt;b&gt;Press up arrow key twice&lt;/b&gt;
+&amp;middot; Knife attack - &lt;b&gt;A&lt;/b&gt;
+&amp;middot; Speargun attack - &lt;b&gt;S&lt;/b&gt;
+

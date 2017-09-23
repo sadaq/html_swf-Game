@@ -1,0 +1,14 @@
+Title: Domino
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Classic, Puzzle
+
+Description:
+In this Digital Domino Game all the rules are the same as the real game. You start off with six Dominos and the first brick is placed automatically. Then you and your opponent take it in turns to place your dominos. You can only place a domino on the board if it has a number that matches a number on either of the ends of the domino board.  You must take a new domino from the pile if you have no more matching dominos to lay. The first person to finsih their own Dominos wins. 
+
+Instructions:
+· Place a domino - Use the mouse to select a domino from your collection, and then place it on either end of the last domino. This only works if the domino has a number that matches the one it is connecting to.
+

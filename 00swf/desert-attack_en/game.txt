@@ -1,0 +1,15 @@
+Title: Desert Attack
+
+Width: 600
+
+Height: 400
+
+Tags: Shooting, War, Car
+
+Description:
+Desert Attack is a side scrolling Shooting Game. You are in control of a jeep that is armed with a Rocket Launcher. Shoot any thing that comes your way. Survive against the various land and air attacks in the form of tanks and helicopters. Avoid any mines and missiles, and grab extra health and power ups.
+
+Instructions:
+&middot; Movements = W,A,S, & D Keys
+&middot; Aim and Shoot = Use Mouse
+

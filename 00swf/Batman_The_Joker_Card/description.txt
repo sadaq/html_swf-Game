@@ -1,0 +1,13 @@
+Title: Batman: The Joker Card
+
+Short Description:
+Find a way out and save batman!
+
+Long Description:
+You were caught in a fight between Batman and Joker and was unfortunately taken hostage by Joker. Because of this, Batman was knocked out for trying to save you and now you're both trapped inside a sinister looking room. Batman's unconscious, it's up to you to get yourself and Batman out of there.
+
+Controls:
+Use your mouse to point and click and find the hiddle object!
+
+Size:
+650x500

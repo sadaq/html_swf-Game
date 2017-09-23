@@ -1,0 +1,20 @@
+Title: Coaster Mania
+
+Width: 960
+
+Height: 600
+
+Tags: Unity, Jumping, Mouse, Fun, Distance
+
+Description:
+Coaster Mania is a wild ride 2D Roller Coaster Racing Game where you have to guide your carts through endless platforms. Make sure you time your jumps to avoid missing the platforms and derailing your carts. Jump over tracks and use various power-ups scattered along the track to keep the ride going for as long as you can. You tap to jump and you can glide down slowly by holding it down.
+How far you can get? Will you get far enough to share your score with your friends on Facebook?
+- Bright colorful artwork
+- Hectic, edge of your seat endless game-play 
+- Power ups to help you 
+- Special bonus points for a greater score
+- Share your high-score with friends on Facebook
+
+Instructions:
+Click mouse to jump. Hold to slow descent
+

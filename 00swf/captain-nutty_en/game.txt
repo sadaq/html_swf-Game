@@ -1,0 +1,14 @@
+Title: Captain Nutty
+
+Width: 700
+
+Height: 530
+
+Tags: Animal, Flying, Shooting
+
+Description:
+Captain Nutty is a fun, frantic shooting game, in which you must guide an eager, adventurous squirrel on his quest for the golden acorn! Blast through the skies, shooting all obstacles in your way, collecting coins, power-ups, acorns and fuel to keep you going.  Use your coins to buy upgrades; better weapons, better fuel consumption and faster rockets will go a long way to help you achieving your goal!
+
+Instructions:
+Movement - Use the mouse cursor to move
+

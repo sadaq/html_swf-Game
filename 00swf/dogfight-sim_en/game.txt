@@ -1,0 +1,17 @@
+Title: Dogfight SIM
+
+Width: 640
+
+Height: 450
+
+Tags: War, Flight Simulator, Flying
+
+Description:
+In Dogfight SIM, its the second World War and you're a lone pilot in the skies. Are you the best there is, born to fight, shoot and kill? Maneuver your plane to avoid enemy fire and mid-air collisions. This is a very fast-paced super War Time Flight Simulator game. Do you have what it takes to rule the skies? Pilots, to your planes!
+
+Instructions:
+1) Options are to use the MOUSE to fly + LEFT CLICK click to open fire.
+2) Or use the Keyboard ARROW KEYS + CTRL to shoot.
+
+SPACE TO BOOST
+

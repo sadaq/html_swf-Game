@@ -1,0 +1,15 @@
+Title: Battleships
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Strategy, Classic, Puzzle
+
+Description:
+The aim of this Strategy Game "Battleships" is to first place all your ships on the grid where you think the enemy will not easily be able to find them. Then turn by turn fire missiles into enemy territory to find and destroy their ships. Whoever first destroys and sinks the others full fleet, wins the game. 
+
+Instructions:
+&middot; Place battleships - Use the mouse to place the battleships.  Please note that you cannot place a battleship directly next to another one.
+&middot; Attack a spot - Use the mouse to click on whatever spot you'd like to attack, then click on the "Fire" button to confirm.
+

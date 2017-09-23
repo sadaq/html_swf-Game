@@ -1,0 +1,16 @@
+Title: Evil Minion
+
+Width: 600
+
+Height: 400
+
+Tags: Platform, Fighting, Adventure
+
+Description:
+You are an evil minion, your mission in life is to serve the evil king.  He wants lots of children so that he can cook them for an upcoming feast. Your job is to kidnap a specified number of children in each level and reach the exit in this none stop running action game. Be aware of mothers and cops as they can hit you, you get 3 lives so be careful as you kidnap! You also lose children every time you are hit so keep an eye on that target number.
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate&lt;/b&gt;= Use Arrow Keys &amp;middot;&lt;b&gt;Punch&lt;/b&gt;= A key
+&amp;middot;&lt;b&gt;Attack&lt;/b&gt;= S key
+&amp;middot;&lt;b&gt;Jump&lt;/b&gt;= SpaceBar
+

@@ -1,0 +1,20 @@
+Title: Extreme Snowboard
+
+Width: 670
+
+Height: 430
+
+Tags: Physics, Balance, Sports, Snowboarding
+
+Description:
+Keep your balance as you whizz down the freezing steep slopes, collecting stars along the way and performing outstanding tricks! Slide down the snowy mountains and try not to fall on your head! Guaranteed to keep you entertained for hours. Who wouldn't love this two-dimensional extreme physics game?
+
+Instructions:
+&amp;middot; Speed up - &lt;b&gt;Up arrow key&lt;/b&gt;
+&amp;middot; Tilt - &lt;b&gt;Left/right arrow keys&lt;/b&gt;
+&amp;middot; Slow down - &lt;b&gt;Down arrow key&lt;/b&gt;
+&amp;middot; Jump - &lt;b&gt;Space&lt;/b&gt;
+&amp;middot; Left hand grab - &lt;b&gt;X&lt;/b&gt;
+&amp;middot; Right hand grab - &lt;b&gt;C&lt;/b&gt;
+&amp;middot; Two-handed grab - &lt;b&gt;Z&lt;/b&gt;
+

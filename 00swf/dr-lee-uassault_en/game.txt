@@ -1,0 +1,20 @@
+Title: Dr Lee UAssault
+
+Width: 800
+
+Height: 600
+
+Tags: Defense, Shooting, Action
+
+Description:
+Dr Lee UAssault is an action packed Attacking and Defence Game. You are in control of Dr Lee and a whole army to help you blast away the enemy  base, whilst  defending your own base from them. Upgrade to get better weapons and spawn different types of team members to help you. You can also make Dr Lee more powerful by upgrading his own personal weapons. You can also give orders to your men to be in attack or defense mode.
+
+Instructions:
+Use the W,A,S,D keys to move around.
+To shoot, aim and click using the mouse button.
+To reload your weapon, press R.
+Press G to switch through command options.
+Press F to switch through AI options.
+Space commands your troops to perform the current command within the player's radius.
+Press E to trigger your super move.
+

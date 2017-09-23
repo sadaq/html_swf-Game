@@ -1,0 +1,15 @@
+Title: Battle Over Berlin
+
+Width: 600
+
+Height: 450
+
+Tags: Airplane, Flight Simulator, War, Aeroplane, Aircraft, Flying
+
+Description:
+Battle Over Berlin is a WW2 based Flying Game where you control your fighter plane in an effort to destroy as many enemy planes as possible.  Use the simple controls to maneuver your plane. Avoid enemy fire while trying to inflict damage on them using your standard guns or with bombs. Play in either 1 or 2 player modes for plenty of fun. Remember that if you fly off the right side of the screen, you enter from the left and vice versa. A strategy to this game is to avoid fire and stay behind your enemy so you can down him faster.
+
+Instructions:
+&middot; Controls = Arrow Keys
+&middot; Fire Gun = "" Key
+

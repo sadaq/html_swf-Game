@@ -1,0 +1,15 @@
+Title: Cube Tank Arena
+
+Width: 640
+
+Height: 470
+
+Tags: Shooting, Action, Aiming, 3D
+
+Description:
+Cube Tank Arena is a 3D Tank shooting game where you must fight and destroy waves of other tanks in order to get to the next level. At the end of each level is a super powerful boss that you must fight also. Once an enemy tank is destroyed it might drop poer-ups you can use within the game or coins that you can collect and use to buy upgrades for your tank. There are 5 arenas in total to fight in.
+
+Instructions:
+Movement - Arrow keys
+Aim - Use the mouse to aim, left click to shoot
+

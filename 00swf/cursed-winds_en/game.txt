@@ -1,0 +1,15 @@
+Title: Cursed Winds
+
+Width: 640
+
+Height: 480
+
+Tags: Shooting, Pirate, Fighting, Water, War
+
+Description:
+Cursed Winds is a Ship Cannon Shooting and Fighting Game. You are best and last of your countries sea defense. You have to take on your enemies full fleet of Naval Ships. Destroy them using the fact that they all have to move in formation and you can go anywhere you like. Shoot them with your cannons or board their ships when they get close. You can use the loot to buy better weaponary and upgrades. Position your ship a few knots ahead of the enemy and shoot then turn so they have no chance of hitting and avoiding their fire. Make sure you always keep a good number of crew on board as you need these units to reload the guns and fight if an enemy ships gets too close.
+
+Instructions:
+&amp;middot; &lt;b&gt;Controls&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Shoot&lt;/b&gt; = Space Bar
+

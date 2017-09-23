@@ -1,0 +1,16 @@
+Title: Droptris
+
+Width: 670
+
+Height: 570
+
+Tags: Puzzle, Scoreboard
+
+Description:
+The blocks are falling and you have to arrange them in such a way that you complete a whole row without having any gaps. Once a row is fully completed, the bricks in that row will vanish. If the pile of blocks reaches the top its game over. The aim of the game is to complete as many rows as possible and last the longest.  Now with plenty of game modes to choose from - you can play two screens at a time, or even challenge your friends!
+
+Instructions:
+&middot; Move bricks - Left/right arrow keys or A/D respectively
+&middot; Drop faster - Down arrow key or S
+&middot; Rotate - Up arrow key or W
+

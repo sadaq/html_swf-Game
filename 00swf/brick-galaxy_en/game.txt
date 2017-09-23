@@ -1,0 +1,14 @@
+Title: Brick Galaxy
+
+Width: 320
+
+Height: 480
+
+Tags: Ball, Classic, Scoreboard, Arcade
+
+Description:
+In Brick Galaxy it's time to defend the earth in this twist on the old breakout style of super cool game play! Instead of breaking bricks you're defending them against dangerous meteor strikes from the evil invading space panda. Use the A and D keys to move your orbital platform. Alternatively you may use the left and right arrow keys.
+
+Instructions:
+Use the A and D keys to move your orbital platform. Alternatively you may use the left and right arrow keys.
+

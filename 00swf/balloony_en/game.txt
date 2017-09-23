@@ -1,0 +1,14 @@
+Title: Balloony
+
+Width: 500
+
+Height: 300
+
+Tags: Arcade, Shooting
+
+Description:
+In this game you are flying inside a hot air balloon. The aim of the game is to accumulate points by shooting down anything that flies, floats, or glides in the sky. This can be anything from other hot air balloons, to black birds and even Spaceship's. But just be careful not to shoot down your own friends, you'll get to know who they are once you start the game.
+
+Instructions:
+&middot; Aim & Fire = Use Mouse
+

@@ -1,0 +1,14 @@
+Title: Close Combat
+
+Width: 600
+
+Height: 433
+
+Tags: War, Platform, Strategy, Killing
+
+Description:
+Close Combat is turn based War Game. There are 2 teams. You control one of them. In each turn you have the choice to either move one of your team members or keep him stationed. Then you have a choice to carry out a particular attack. You can throw a grenade, use a sniping gun or an AK-47 to attack your nearest opponent. Both sides take turns until one team is fully eliminated. You can also play this game with a friend on the same computer.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

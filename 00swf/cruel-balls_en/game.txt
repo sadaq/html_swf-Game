@@ -1,0 +1,14 @@
+Title: Cruel Balls
+
+Width: 640
+
+Height: 530
+
+Tags: Shooting, Puzzle, Skill, Scoreboard, Physics
+
+Description:
+It's time to take aim against those castle-dwelling boxes! Aiming your cannon toward the distant and well-guarded enemies, practice your precision and skill as you do your best to blow up the defenses. Try out a huge variety of different weapons as you pass each challenge. Similar to Angry Birds, you'll have to use your wits, skills, and explosives.
+
+Instructions:
+Use the mouse to aim and shoot.
+

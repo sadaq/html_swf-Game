@@ -1,0 +1,14 @@
+Title: Cops vs Supers
+
+Width: 640
+
+Height: 480
+
+Tags: Fighting, Scoreboard, Logic, Puzzle, Physics
+
+Description:
+In Cops vs Supers, the populace have voted, and everyone is sick of the Superheroes doing what they please. It's time to take them down with the long arm of the law. Fire your police officers at the Superheroes, by clicking and dragging, to take them out! Now is the time to protect the planet from these vigilante wannabees!
+
+Instructions:
+Left click and drag to adjust power and angle, then release to launch your officer through the air.
+

@@ -1,0 +1,16 @@
+Title: Black Sails
+
+Width: 650
+
+Height: 500
+
+Tags: Quest, Pirate, Fighting, Business, Water, Upgrade
+
+Description:
+In Black Sails, the objective of the game is to win naval battles and earn gold. Recruit crew members and overpower your enemies. Go around the towns to buy upgrades and purchase contracts. Conquer the world by building the greatest empire the world has ever seen! Navigate the open seas to Taverns, Shipyards and more to consolidate your might! Fight enemy ships, and even your own if you want to be a pirate! You can board enemy ships in battle mode to take control of them and add them to your fleet! Your game is saved, so you can come back and continue your bid for complete global domination at your leisure! Good Luck!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Shoot Left / Right&lt;/b&gt; = Z or X Keys
+&amp;middot; &lt;b&gt;Select Weapon&lt;/b&gt; = 1 - 4 Keys
+

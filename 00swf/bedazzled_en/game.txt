@@ -1,0 +1,14 @@
+Title: Bedazzled
+
+Width: 520
+
+Height: 480
+
+Tags: Puzzle, Skill, Action, Scoreboard, Logic
+
+Description:
+Match the jewels in this beautiful and addictive puzzle game. Match at least three of the colorful stones to make them disappear. Create combos and match more gems together to create special explosions, lightning bolts and fires to increase your score! Be quick to replenish the time bar, and make sure not to let time run out!
+
+Instructions:
+Use the mouse to click on a gem. Click an adjacent gem to swap positions.
+

@@ -1,0 +1,14 @@
+Title: Bubble Fairy
+
+Width: 520
+
+Height: 390
+
+Tags: Adventure
+
+Description:
+Bubble Fairy is a Rescue Ggame. You are a little fairy and your best friend has been fairy-napped by the devil, he has caged your little friend inside a magical bubble and left her in one of hells most deepest caves. You can use the wind created by your wings to push the bubble and rescue your friend. Prevent the bubble from touching the sharp obstacles or your friend will get injured.
+
+Instructions:
+&middot; Control = Use Mouse
+

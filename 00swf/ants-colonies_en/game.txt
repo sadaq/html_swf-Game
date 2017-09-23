@@ -1,0 +1,16 @@
+Title: Ants Colonies
+
+Width: 550
+
+Height: 400
+
+Tags: Killing, Adventure
+
+Description:
+Play as am ant and protect the colonies from the invading enemies. Progress down to each colony and eliminate all the evil creatures that you encounter, before time runs out. As the levels go up you will encounter more enemies and subsequently more weapons will be unlocked. You can use a big hammer and bombs to begin with, later, fire, water, wind etc will open up.
+
+Instructions:
+&middot; Movements = W,A & D Keys or Arrow Keys
+&middot; Reset Level = R Key
+&middot; Use a Weapon = Left Click on its Icon
+

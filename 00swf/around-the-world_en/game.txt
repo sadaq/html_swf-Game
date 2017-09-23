@@ -1,0 +1,18 @@
+Title: Around The World
+
+Width: 640
+
+Height: 530
+
+Tags: Upgrade, Driving, Racing
+
+Description:
+Around The World is a driving game.  The aim of the game is to drive through increasingly difficult locales, climbing up steep hills and sudden drops, collecting coins along the way! Use the coins to upgrade your car, making it easier to traverse the dangerous terrain.  Some advice from us: take advantage of your boost to make those more difficult jumps!
+
+Instructions:
+Accelerate - Up or W key.
+Reverse - Down or S key.
+Balance Left/Right - A/D or Left/Right arrow keys respectively.
+Jump - Spacebar.
+Turbo - Shift key.
+

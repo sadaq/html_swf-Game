@@ -1,0 +1,16 @@
+Title: Dirt Bike 4
+
+Width: 500
+
+Height: 400
+
+Tags: Sports, Physics, Motorbike, Dirt Bike, Urban Sports, Stunt
+
+Description:
+Dirt Bike 4 is a game in which you have to pass over a terrain full of obstacles in order to finish the level and move to another. You have to move fast and have a great balance because that is all that matters. If you move quick you will earn more points but keep in mind that balance counts. Try to not make long jumps and try to see the terrain first so you can evaluate the speed and the motorbike position in order to make it to the finish line. 
+
+Instructions:
+&amp;middot; &lt;b&gt; Accelerate &lt;/b&gt; - Up arrow key.
+&amp;middot; &lt;b&gt; Decelerate &lt;/b&gt; - Down arrow key.
+&amp;middot; &lt;b&gt; Tilt&lt;/b&gt; - Left/right arrow keys.
+

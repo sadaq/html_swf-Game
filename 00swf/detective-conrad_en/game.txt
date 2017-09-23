@@ -1,0 +1,14 @@
+Title: Detective Conrad
+
+Width: 640
+
+Height: 480
+
+Tags: Adventure, Action, Puzzle, Platform
+
+Description:
+Detective Conrad is on the case! In this beautifully dark arcade-style side-scrolling platformer, you'll guide Detective Conrad through a series of dark puzzles in a haunted castle. Avoid the dangers, grab the keys, solve the puzzles, and get out alive! Thanks to your brilliant wit and Conrad's amazing jumping skills, this case should be solved in no time!
+
+Instructions:
+Use arrow keys to move, some in game controls will be visible too.
+

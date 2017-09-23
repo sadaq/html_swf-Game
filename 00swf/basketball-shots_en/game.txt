@@ -1,0 +1,14 @@
+Title: Basketball Shots
+
+Width: 670
+
+Height: 600
+
+Tags: Shooting, Sports, Scoreboard, Basketball
+
+Description:
+Basketball Shots is a Basketball Shooting Simulation Game. Use your mouse to set the angle of the throw and Click to shoot. You have 20 tries to score the most points you can. To make the game more realistic, the player is moved randomly around the court. Points are based on how far you can shoot from. You never know the NBA selection team might be watching you play.
+
+Instructions:
+· Aim and shoot - Use the mouse to aim, left click to shoot the ball.
+

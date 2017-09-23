@@ -1,0 +1,15 @@
+Title: The Black House
+
+Width: 640
+
+Height: 480
+
+Tags: Funny
+
+Description:
+This is a Funny Poloitical Game based on United States General Elections. You control American President Barack Obama. You play by first pointing the red arrow at the correct angle and when the power meter reaches the fullest point, press left-click and kick George W. Bush out of the Presidential office and send him back to Texas!
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Mouse (point and click)
+
+

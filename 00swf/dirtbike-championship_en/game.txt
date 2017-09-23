@@ -1,0 +1,15 @@
+Title: Dirt Bike Championship
+
+Width: 500
+
+Height: 400
+
+Tags: Racing, Physics, Motorbike, Dirt Bike, Ball, Urban Sports, Sports
+
+Description:
+In Dirt Bike Championship get on your bike and win races, but don't crash or you'll go back to the start! Win the race to unlock the next track and continue on your way to the championship.  Be careful to keep your balance and time your jumps, you don't want to end up crashing into a cliff or falling into a canyon.
+
+Instructions:
+&amp;middot; &lt;b&gt;Drive&lt;/b&gt; - Arrow Keys
+&amp;middot; &lt;b&gt;Pause Game&lt;/b&gt; - P Key
+

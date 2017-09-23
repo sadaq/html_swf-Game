@@ -1,0 +1,14 @@
+Title: Colors
+
+Width: 670
+
+Height: 504
+
+Tags: Puzzle, Classic, Memory
+
+Description:
+Based on the popular childhood "Simon Says" Memory Game. Simon's a computer, Simon has a brain, you either do what Simon says or else you go down the drain. The object of Colors is a simple one, as Simon likes to say. Simon will start by highlighting one particular color, then he will show two, three, four etc. You in turn will have to repeat his patterns in order for Simon to show you the next pattern. Follow the pattern of lights and sounds for as long as you can remember them. Time to get your brain working and test your memory.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

@@ -1,0 +1,14 @@
+Title: Bowling
+
+Width: 480
+
+Height: 500
+
+Tags: Sports, Bowling, Simulation
+
+Description:
+This has to be the best Online Bowling game around. Smooth workings, eye boggling graphics with an added 2 player function. You have to play it to believe it. To get the perfect bowl, aim your mouse towards the pins, whilst aligning the mouse with the marking of the floor. Push the mouse towards the pins with as much power as possible. Keep in mind that the more power you add the faster the ball will go. Also noting that this manoeuvre should start from behind the marking on the floor. A bit of trial and error is required but you will soon be bowling like a pro.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

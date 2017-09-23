@@ -1,0 +1,15 @@
+Title: Army Of Destruction
+
+Width: 670
+
+Height: 320
+
+Tags: Defense, Upgrade, Space, Alien
+
+Description:
+Don't let your base be destroyed in Army Of Destruction. The bad guys are launching wave after wave of deadly attacks and only you can defend the base! Use a large array of weapons in your battle against these foe, keep shooting and and make them fall. The shotgun is important against crowds of enemies while the rifle is good against bikes. Try your weapons and see which ones work best against against each enemy type. Remember, head shots do more damage than anything else.
+
+Instructions:
+&amp;middot; &lt;b&gt;Aim and Shoot&lt;/b&gt; = Use Mouse
+&amp;middot; &lt;b&gt;Change Weapons&lt;/b&gt; = 1 - 6 Keys
+

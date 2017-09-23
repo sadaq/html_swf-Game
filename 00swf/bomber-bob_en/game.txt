@@ -1,0 +1,15 @@
+Title: Bomber Bob
+
+Width: 550
+
+Height: 445
+
+Tags: War, Flying, Shooting
+
+Description:
+Bomber Bob is a mid air Dog Fighting Game. You play the role of a world war 2 fighter pilot. Your mission is to defend your ship at sea. You are defending it from incoming enemy planes. Shoot down as many as you can before you are shot down yourself and your ship is sunk. The game will get faster and faster as you progress...
+
+Instructions:
+&middot; Control The Plane = Use Arrow Keys
+&middot; Shoot The Enemy = Use Space Bar
+

@@ -1,0 +1,14 @@
+Title: Factory Kingdom
+
+Width: 768
+
+Height: 500
+
+Tags: Managing, Management, Strategy, Simulation
+
+Description:
+Factory Kingdom is a Business Simulation Game. Your goal is to start your own clothing company and make it grow to get as much money as you can. You can choose between three levels of difficulty influencing the amount of cash you start with. Buy desks and other equipments, hire workers and start earning some cash to buy more stuff. Hire more people, expand and earn even more cash! Don't forget to keep your workers happy and productive with restaurants and games. We highly reccomend you follow the in game tutorial at least once.
+
+Instructions:
+Use the mouse to choose and place workers, work stations and decorations.
+

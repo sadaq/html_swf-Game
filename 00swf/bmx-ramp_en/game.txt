@@ -1,0 +1,18 @@
+Title: BMX Ramp
+
+Width: 570
+
+Height: 400
+
+Tags: BMX, Sports, Urban Sports, Bike, Stunt
+
+Description:
+Get your trickster bike out and prepare for a challenge! BMX Ramp allows you to show off your skills while attempting to impress the locals. You can either compete with a time limit, or you can freestyle your way to awesomeness. Either way, you'll not be short of a ramp to practice on, and a few motions to make even the greats look your way!
+
+Instructions:
+&middot; Accelerate = Up Arrow Key
+&middot; Side Flip = Down Arrow Key
+&middot; Superman Flip = A Key
+&middot; Rotate Handle = S Key
+&middot; Batman Flip = D Key
+

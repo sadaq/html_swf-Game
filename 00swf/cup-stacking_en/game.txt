@@ -1,0 +1,14 @@
+Title: Cup Stacking
+
+Width: 670
+
+Height: 430
+
+Tags: Fun, Balancing
+
+Description:
+Do you have the patience and skill to stack all the cups? Find out in this challenging game! Each level gets harder and more difficult to accomplish! Do you have the nerves to stack the cups patiently or just knock them off the table out of rage? Each level has demanding ways to place the cups, and if you don't place them in the right order...you might as well start over, and don't worry, the cups will come right back to where they begin to spawn. 
+
+Instructions:
+&amp;middot; Drag cups - &lt;b&gt;Hold left mouse button and drag&lt;/b&gt;
+

@@ -1,0 +1,15 @@
+Title: Droptris HD
+
+Width: 960
+
+Height: 600
+
+Tags: 3D, Accuracy, Classic, Falling, Keyboard, Logic, Puzzle
+
+Description:
+Droptris a block dropper game, where you must guide the falling blocks into lines to score points and get the best time possible. Utilize the 3 unique power-ups to freeze time, remove a line or destroy the falling block to help you get the best score you can. Features two unique game modes ,­10 Lines where you try to complete 10 lines in the fastest time possible and Infinite mode where you go for the highest score and the game only ends when the blocks reach the top of the screen. Use your skills, logic and the unique power-ups to get a high score and then challenge your friends to beat it.
+
+Instructions:
+Arrows to move blocks.
+Space to rotate
+

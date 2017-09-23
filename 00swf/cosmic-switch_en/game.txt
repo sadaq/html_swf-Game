@@ -1,0 +1,14 @@
+Title: Cosmic Switch
+
+Width: 526
+
+Height: 440
+
+Tags: Shape, Puzzle, Matching
+
+Description:
+The aim of Cosmic Switch is to swap the objects placed upon the square grid and try to align three or more identicle symbols in order to make them disappear. Every time you match the symbols you will receive points, when the total of these points reach minimum amount required for each level, you will move onto the next level. Reach this score before the game timer runs out though or you will lose!
+
+Instructions:
+&middot; Play This Game = Use Mouse (point and click)
+

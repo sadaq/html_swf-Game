@@ -1,0 +1,14 @@
+Title: Build Up
+
+Width: 670
+
+Height: 550
+
+Tags: Skill, Puzzle, Physics, Building
+
+Description:
+Build up is a Physics Game with 16 levels, in which you must create a stable structure that can withstand a heavy weight. Draw lines between the small circles and squares, but use as few pieces as you can, to lower the expense and increase your score, if you go over budget it will effect your star rating, Use the hammer to erase any mistakes you have made.
+
+Instructions:
+Use the mouse to click and drag beams across  connectors.
+

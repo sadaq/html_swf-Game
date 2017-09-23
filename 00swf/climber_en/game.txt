@@ -1,0 +1,16 @@
+Title: Climber
+
+Width: 512
+
+Height: 384
+
+Tags: Urban Sports, Sports, Climbing, Physics, X
+
+Description:
+In Climber, the objective of the game is to keep climbing until you reach the top so you can warm your frozen feet in your mountain climbing chalet by a nice warm fire. Dodge the falling debris and make sure to get to the checkpoints alive. Try and tap the arrow keys so you can move faster. Press space bar every once in a while to put pitons into the rock so you don’t fall to your doom! Good Luck and get climbing!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Grip&lt;/b&gt; = Shift Key
+&amp;middot; &lt;b&gt;Piton&lt;/b&gt; = Space Bar
+

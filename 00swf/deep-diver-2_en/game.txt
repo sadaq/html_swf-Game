@@ -1,0 +1,14 @@
+Title: Deep Diver 2
+
+Width: 640
+
+Height: 480
+
+Tags: Finding, Discovery, Boat, Adventure, Submarine, Ship
+
+Description:
+Dive deep into the oceans of the world in search of the rare artifacts that will enable you to continue your research! Collect treasure and rare fish specimens to improve your score and gain enough money to upgrade your submarine! Be careful not to run out of oxygen, though, and beware of the many enemies you'll find on your way!
+
+Instructions:
+Use the Arrow Keys to move your sub around the ocean depths. Mouse is needed to use the menu options.
+

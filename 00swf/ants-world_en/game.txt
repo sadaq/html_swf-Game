@@ -1,0 +1,14 @@
+Title: Ants World
+
+Width: 550
+
+Height: 450
+
+Tags: Animal, Lemmings Style, Managing, Strategy
+
+Description:
+In Ants World, your goal is to direct the groups of ants into the cave by giving particular ants their roles. Try not to let the ants fall off high cliffs and try not to let them drown. You have a limited amount of roles you can give to ants so think carefully.  Do you have what it takes? Good luck, and have fun!
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

@@ -1,0 +1,14 @@
+Title: Bubble Maker
+
+Width: 700
+
+Height: 350
+
+Tags: 
+
+Description:
+In Bubble Maker your aim is to catch as many cherry flowers as possible before time runs out. To do this, you need to make a bubble and keep the flower inside it. You make a bubble by holding down the left mouse button. Avoid catching the bees as they will reduce your score. You will get bonus time by catching the clock symbol. Get a friend and see who can score the highest.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

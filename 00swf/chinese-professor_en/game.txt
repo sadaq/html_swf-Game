@@ -1,0 +1,17 @@
+Title: The Chinese Professor
+
+Width: 640
+
+Height: 480
+
+Tags: Strategy, Flying
+
+Description:
+Help Professor Chan fly by controlling his brand new catapult. Try and fling him as far as possible by controling him in the air. Flying high might not be the best solution to flying a longer distance, so try different angles of flight. Always be on the look out for clouds to grab on for a boost to get you further!
+
+Instructions:
+&middot; Tilt Upwards = Left Arrow Key
+&middot; Tilt Downwards = Right Arrow Key
+&middot; Hold On To Clouds = Up Arrow Key
+&middot; To Set An Angel And Launch Professor Chan = Space Bar
+

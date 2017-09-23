@@ -1,0 +1,14 @@
+Title: Color Burst
+
+Width: 550
+
+Height: 400
+
+Tags: Puzzle
+
+Description:
+In Color Bust you need to make the bubbles explode with just one click.  Each level requires a growing number of colours to burst, and that can only be achieved by them touching a current burst.  Try to predict where the bubbles will go to create the biggest burst you can, but be careful as each burst only lasts for a short time
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

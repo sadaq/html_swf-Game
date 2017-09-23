@@ -1,0 +1,16 @@
+Title: Army Training
+
+Width: 640
+
+Height: 450
+
+Tags: Scoreboard, Shooting, War, Army
+
+Description:
+Prove you're the best soldier by taking down forces in a challenging training ground.  Shoot down wooden targets while rescuing hostages as fast as you can!  Be careful, there's not much time and you have limited ammo!  Every bullet counts, so make sure you hit enemies, and not the innocent hostages! 
+
+Instructions:
+Move around environment - W,A,S,D keys
+Aim - Use mouse keys
+Shoot - Left mouse button
+

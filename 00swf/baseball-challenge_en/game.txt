@@ -1,0 +1,15 @@
+Title: Baseball Challenge
+
+Width: 670
+
+Height: 600
+
+Tags: Baseball, Aiming, Accuracy, Ball, Sports
+
+Description:
+In Baseball Challenge, you've got some awesome challenges ahead of you if you want to complete your super cool Baseball career in style!! Hit home-runs, aim for specific sections of the baseball field and even take aim at the pitcher!  Complete all of the challenges and submit your high score. Do you have what it takes to top the leader-board? If not the first time, keep trying as practice makes perfect.
+
+Instructions:
+Use the mouse to aim.
+Left click to swing.
+

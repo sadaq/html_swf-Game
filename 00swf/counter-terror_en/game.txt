@@ -1,0 +1,20 @@
+Title: Counter Terror
+
+Width: 640
+
+Height: 530
+
+Tags: Action, Killing, 2 Player, Adventure, Shoot Em Up, Shooting
+
+Description:
+Sneaking through the city's various facilities and taking out terrorists with stealth and skill is what your job is all about. Play alone or with a friend in cooperative mode to clear the terrorists. Use all kinds of cool utilities that come standard for this kind of special-forces work. This arcade-style action-scroller comes packed with interactive environments and tons of tactics to clear each stage.
+
+Instructions:
+Cursor keys for movement.
+Z = Jump
+X = Shoot
+C = Deploy special item
+S = Switch special item
+
+Player 2 - See in game controls.
+

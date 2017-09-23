@@ -1,0 +1,16 @@
+Title: Dungeon Hunt
+
+Width: 600
+
+Height: 450
+
+Tags: Puzzle
+
+Description:
+Dungeon hunt an utter classic similar in style to another great game gauntlet, in this game you have to survive and escape. Wherever you turn you see zombies, destroy the grave stones to prevent more and more uncontrollable zombies from spawning and stopping you in your effots to escape, gather keys, gold and potions to help you survive your worst nightmare.
+
+Instructions:
+· Movements - Arrow Keys
+· Shoot - Space Bar
+· Use potion - Enter
+

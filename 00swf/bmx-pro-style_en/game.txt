@@ -1,0 +1,16 @@
+Title: Bmx Pro Style
+
+Width: 670
+
+Height: 420
+
+Tags: Stunt, Sports, BMX, Bike, X, Urban Sports
+
+Description:
+In BMX Pro Style you need to score as many points as possible in the allotted time given. Hold the trick button you want while in the air to increase the amount of points you collect. Use awesome crazy trick combinations and try to land as clean as you can. Stand by your bike and get ready to take control of the track. Good luck and have fun!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Hard Tricks&lt;/b&gt; = Q,W &amp; E Keys
+&amp;middot; &lt;b&gt;Easy Tricks&lt;/b&gt; = A,S &amp; D Keys
+

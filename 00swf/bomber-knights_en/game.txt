@@ -1,0 +1,17 @@
+Title: Bomber Knights
+
+Width: 640
+
+Height: 530
+
+Tags: Scoreboard, Arcade, Classic, Bomberman
+
+Description:
+You must remember Bomberman. Well this time Bomberman was teleported back in a time of kingdoms and knights, in the form of a knight in shining armor. The good news is that he still has his bombs to take on his enemies. Bad new is that the Dark Wizard's forces has managed to steal the trick of forging these bombs and are trying to use it to conquer the lands. Stop them at any cost and defeat the mighty Dark Wizard to put an end to his rule.
+
+Instructions:
+&middot; Move - Arrow keys.
+&middot; Drop bomb - Spacebar.
+&middot; Shield - Number key 1.
+&middot; Joust bomb - Number key 2.
+

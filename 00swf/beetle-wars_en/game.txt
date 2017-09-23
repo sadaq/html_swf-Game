@@ -1,0 +1,15 @@
+Title: Beetle Wars
+
+Width: 640
+
+Height: 480
+
+Tags: Defense, Animal, Survival, Killing
+
+Description:
+In Beetle Wars, the objective of the game is to survive the onslaught of hostile beetles or finish particular objectives set for each level. You can upgrade your beetle in the armory after earning gold from destroying any and all hostile beetles. This will enable you to acquire special skills to use with your beetle. How long can you survive ??.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Use Skillls&lt;/b&gt; = Q,W,E,A,S &amp; D Keys
+

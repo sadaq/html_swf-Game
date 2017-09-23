@@ -1,0 +1,15 @@
+Title: Fairytale Annihilation
+
+Width: 650
+
+Height: 450
+
+Tags: War, Army, Aiming, Action, Shooting
+
+Description:
+Fairytale Annihilation is a cartoon shooting game where you must repair your helicopter that has crashed landed. Enemies like fairies, unicorns, haunted lollipops and other hideous fantasy creatures come your waycome from each side of the screen while you start in the middle. As the game goes on you earn money in order to buy new weapons and hire friends that help you shoot the enemies while you try to get your helicopter working again, in order to escape Fairytale Island.  This game also uses FOG coins to help you level the playing field with upgrades.
+
+Instructions:
+WSAD to move
+Mouse to aim and shoot.
+
