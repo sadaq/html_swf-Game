@@ -1,0 +1,36 @@
+a#fork_me
+  position: absolute
+  top: 0
+  right: 0
+  z-index: 499
+
+  img
+    border: 0
+
+a#debug
+  display: block
+  opacity: .8
+  background: black
+  top: 0
+  font-family: monospace
+  font-size: 15px
+  margin: 5px
+  padding: 10px
+  position: fixed
+  right: 0
+  z-index: 500
+  text-decoration: none
+
+  &:visited, &:active, &:link
+    color: white
+
+  &:hover
+    text-decoration: underline
+
+#error
+  @extend .error
+  margin-top: 100px
+  padding: 30px
+  +border-radius(10px)
+  +box-shadow
+  background: white

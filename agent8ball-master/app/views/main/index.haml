@@ -1,0 +1,75 @@
+- uncompiled = Rails.env == 'development' && params.has_key?('uncompiled')
+- content_for :header do
+  = game_js(uncompiled)
+  %link{:rel => 'canonical', :href => 'http://agent8ball.com'}
+%a#fork_me{:href => "https://github.com/thinkpixellab/agent8ball"}
+  %img{ :alt=> "Fork me on GitHub", :src=>"http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"}
+
+- if Rails.env == 'development'
+  - if(uncompiled)
+    = link_to "Uncompiled", root_path, :id => 'debug', :title => 'Go to compiled version'
+  - else
+    = link_to "Compiled", '/?uncompiled', :id => 'debug', :title => 'Go to uncompiled version'
+
+#font-preload
+  #CPMono_v07Bold a
+  #MolotRegular a
+  #RadiolandRegular a
+#loadingbg
+  %img{:alt => "", :src => image_path("vignette.png")}
+  #loading
+    #loadingpg
+#vignette.hidden
+  %img#vignetteimg{:alt => "", :src => image_path("vignette.png")}
+#gamecontrolsdisplay.hidden
+  #timers
+    #minutesremaining.digit 2
+    #secondsremainingtens.digit 0
+    #secondsremainingones.digit 0
+    #bombicon
+    #bombsecondstens.digit 3
+    #bombsecondsones.digit 0
+    #progress
+  #bestscore
+  #score
+  #smalllogo
+  #instructions
+  #pause
+  #startover
+  #sounds
+    #musicbutton
+      .off
+      .on
+    #soundsbutton
+      .off
+      .on
+  #pixellab= link_to '', "http://thinkpixellab.com"
+#game.hidden
+  #tableborder
+    #table
+      #boom
+      %canvas#demo_canvas
+%canvas#cue_canvas.hidden
+#gamecontrolsclick.hidden
+  #instructionsclick
+  #pauseclick
+  #startoverclick
+  #soundclick
+    #musicbuttonclick
+    #soundsbuttonclick
+  #pixellabclick= link_to '', "http://thinkpixellab.com"
+#alert-div-holder{:style => 'display: none;'}
+  #alert-div
+#overlay.hidden
+  #messageoverlay
+    #start
+      #startmessage
+    #resume
+    #howtoplay
+    #gameover
+      #gameoverscore 00
+      #gameovertwitter
+      #gameoverfacebook
+#bottombar
+  #bottombar-close
+  #browsermessage
